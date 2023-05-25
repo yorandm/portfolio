@@ -1,4 +1,7 @@
+import AboutMe from '@/components/aboutMe';
 import style from './css/style.module.css';
+import Projects from '@/components/Projects';
+import Contact from '@/components/contact';
 export default function Home() {
   return (
     <main className={style.page}>
@@ -20,138 +23,9 @@ export default function Home() {
 
       </div>
       <div className={style.content}>
-        <section id="about">
-          <h2>About me</h2>
-          <p>Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.Lorem ipsum dolor sit
-            amet consectetur adipisicing elit. Quisquam, voluptatum
-            voluptates. Quisquam, voluptatum voluptates. Quisquam,
-            voluptatum voluptates. Quisquam, voluptatum voluptates.
-
-          </p>
-        </section>
+        <AboutMe />
+        <Projects />
+        <Contact />
       </div>
     </main>
   )

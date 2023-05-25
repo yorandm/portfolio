@@ -1,0 +1,25 @@
+.contactDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    ;
+}
+
+.contactDiv a {
+    text-decoration: none;
+    color: var(--foreground-rgb);
+    display: flex;
+    align-items: center;
+    padding: 1vw;
+    font-size: 1vw;
+}
+
+.contactDiv span {
+    text-decoration: underline;
+    margin: 1vw
+}
+
+.contactDiv img {
+    width: 2vw;
+    height: auto;
+}

@@ -1,0 +1,26 @@
+.img {
+    width: 15vw;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    height: auto;
+}
+
+.card {
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 8%;
+    transition: 1s;
+}
+
+.cardText {
+    text-align: center;
+}
+
+.card:hover {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.card h3:hover {
+    text-decoration: underline;
+}

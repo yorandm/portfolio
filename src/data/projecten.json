@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Delaware",
+    "type": "school",
+    "description_short": "Delaware",
+    "headerImg": {
+      "src": "/img/delaware/dela1.png",
+      "alt": "Delaware Project"
+    },
+    "date": "2022-10-01",
+    "group": [
+      {
+        "name": "Damon De Letter",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Warre Neufkens",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Sebastien Vanlede",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Tuur De Schepper",
+        "github": "",
+        "portfolio": ""
+      }
+    ],
+    "details": [
+      {
+        "subtitle": "Web application",
+        "description": "This project was made for Delaware. It contains a order and track & trace app where the customer can review orders, see their order history and track their orders. The app also contains a admin panel where the admin can manage the orders.  Another functionality of the app was that the user could buy their products. The purpose of this build was to rearrange the customers package in order to be the most ecologic. This means that the space occupied of the box is minimalized. One of the other key features was the abillity to track in real time. ",
+        "technology": [
+          "c#",
+          ".NET"
+        ],
+        "images": [
+          {
+            "src": "img/delaware/dela1.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela2.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela3.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela4.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela5.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela6.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela7.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela8.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela9.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/delaware/dela10.png",
+            "alt": "Rummikub game application"
+          }
+        ]
+      },
+      {
+        "subtitle": "Mobile App",
+        "description": "Simultaneously with the web application, a mobile application (Android) was made. The app had the same functionalities as the website with some small differences . A important requirement of the app was notifications, more specifically push notifications. These were managed with Firebase. ",
+        "technology": [
+          "Kotlin",
+          "Firebase",
+          "Android"
+        ],
+        "images": [
+          {
+            "src": "img/delaware/delddddda1.png",
+            "alt": "Foto's fixen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fluvius",
+    "type": "school",
+    "description_short": "Dashboard and desktop application for Fluvius",
+    "headerImg": {
+      "src": "/img/fluvius.png",
+      "alt": "Fluvius Project"
+    },
+    "date": "2022-02-01",
+    "group": [
+      {
+        "name": "Damon De Letter",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Warre Neufkens",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Sebastien Vanlede",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Lander Schepens",
+        "github": "",
+        "portfolio": ""
+      }
+    ],
+    "details": [
+      {
+        "subtitle": "webapp",
+        "description": "Fluvius is the Belgian grid operator of electricity and natural gas in all municipalities of the Flemish Region. For their future goals about the impact on the environment, they wanted a dashboard to keep track of their goals and the current situation. It contains a view that can be  customized for personal interest. The goals are categorized by SDG's (sustainable Development Goals)",
+        "technology": [
+          "react",
+          "nodejs"
+        ],
+        "images": [
+          {
+            "src": "img/fluvius/webapp/fluvius1.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius2.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius3.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius4.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius5.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius6.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius7.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius8.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius9.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius10.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius11.png",
+            "alt": "Fluvius webapp"
+          },
+          {
+            "src": "img/fluvius/webapp/fluvius12.png",
+            "alt": "Fluvius webapp"
+          }
+        ]
+      },
+      {
+        "subtitle": "Desktop app",
+        "description": "To manage the data a desktop application was build. In this desktop application, administrators had the possibility to add datasources, create goals and add them to a (new) category.",
+        "technology": [
+          "java"
+        ],
+        "images": [
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp1.png",
+            "alt": "Fluvius desktopapp"
+          },
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp2.png",
+            "alt": "Fluvius desktopapp"
+          },
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp3.png",
+            "alt": "Fluvius desktopapp"
+          },
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp4.png",
+            "alt": "Fluvius desktopapp"
+          },
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp5.png",
+            "alt": "Fluvius desktopapp"
+          },
+          {
+            "src": "img/fluvius/desktopapp/fluviusApp6.png",
+            "alt": "Fluvius desktopapp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rummikub",
+    "type": "school",
+    "description_short": "The game rummikub",
+    "headerImg": {
+      "src": "/img/rummikub/rummikub12.png",
+      "alt": "Rummikub Project"
+    },
+    "date": "2021-02-01",
+    "group": [
+      {
+        "name": "Damon De Letter",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Maxim Van Langendonck",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Sebastien Vanlede",
+        "github": "",
+        "portfolio": ""
+      },
+      {
+        "name": "Dries Vanbillemont",
+        "github": "",
+        "portfolio": ""
+      }
+    ],
+    "details": [
+      {
+        "subtitle": "",
+        "description": "Rummikub game made for desktop app.",
+        "technology": [
+          "java"
+        ],
+        "images": [
+          {
+            "src": "img/rummikub/rummi1.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi2.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi3.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi4.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi5.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi6.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi7.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi8.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi9.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi10.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi11.png",
+            "alt": "Rummikub game application"
+          },
+          {
+            "src": "img/rummikub/rummi12.png",
+            "alt": "Rummikub game application"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -15,4 +15,10 @@
 body {
     color: rgb(var(--foreground-rgb));
     background: linear-gradient( to bottom, transparent, rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+    min-height: 100vh;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
 }
