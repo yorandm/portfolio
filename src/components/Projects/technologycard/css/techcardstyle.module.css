@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 8px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+.name{
+    margin-left: 5px;
+}

@@ -1,5 +1,6 @@
 [
   {
+    "id": 3,
     "title": "Delaware",
     "type": "school",
     "description_short": "Delaware",
@@ -35,8 +36,16 @@
         "subtitle": "Web application",
         "description": "This project was made for Delaware. It contains a order and track & trace app where the customer can review orders, see their order history and track their orders. The app also contains a admin panel where the admin can manage the orders.  Another functionality of the app was that the user could buy their products. The purpose of this build was to rearrange the customers package in order to be the most ecologic. This means that the space occupied of the box is minimalized. One of the other key features was the abillity to track in real time. ",
         "technology": [
-          "c#",
-          ".NET"
+          {
+            "name": "c#",
+            "icon": "/technology/csharp.png"
+
+          },
+          {
+            "name": ".NET",
+            "icon": "/technology/dotnet.png"
+
+          }
         ],
         "images": [
           {
@@ -85,9 +94,18 @@
         "subtitle": "Mobile App",
         "description": "Simultaneously with the web application, a mobile application (Android) was made. The app had the same functionalities as the website with some small differences . A important requirement of the app was notifications, more specifically push notifications. These were managed with Firebase. ",
         "technology": [
-          "Kotlin",
-          "Firebase",
-          "Android"
+          {
+            "name": "Kotlin",
+            "icon": "/technology/kotlin.jpeg"
+          },
+          {
+            "name": "Firebase",
+            "icon": "/technology/firebase.png"
+          },
+          {
+            "name": "Android",
+            "icon": "/technology/android.png"
+          }
         ],
         "images": [
           {
@@ -99,6 +117,7 @@
     ]
   },
   {
+    "id": 2,
     "title": "Fluvius",
     "type": "school",
     "description_short": "Dashboard and desktop application for Fluvius",
@@ -132,10 +151,16 @@
     "details": [
       {
         "subtitle": "webapp",
-        "description": "Fluvius is the Belgian grid operator of electricity and natural gas in all municipalities of the Flemish Region. For their future goals about the impact on the environment, they wanted a dashboard to keep track of their goals and the current situation. It contains a view that can be  customized for personal interest. The goals are categorized by SDG's (sustainable Development Goals)",
+        "description": "Fluvius is the Belgian grid operator of electricity and natural gas in all municipalities of the Flemish Region. For their future goals about the impact on the environment, they wanted a dashboard to keep track of their goals and the current situation. It contains a view that can be  customized for personal interest. The goals are categorized by SDG's (sustainable Development Goals).",
         "technology": [
-          "react",
-          "nodejs"
+          {
+            "name": "react",
+            "icon": "/technology/react.png"
+          },
+          {
+            "name": "nodejs",
+            "icon": "/technology/nodejs.png"
+          }
         ],
         "images": [
           {
@@ -192,7 +217,10 @@
         "subtitle": "Desktop app",
         "description": "To manage the data a desktop application was build. In this desktop application, administrators had the possibility to add datasources, create goals and add them to a (new) category.",
         "technology": [
-          "java"
+          {
+            "name": "Java.png",
+            "icon": "/technology/java"
+          }
         ],
         "images": [
           {
@@ -224,11 +252,12 @@
     ]
   },
   {
+    "id": 1,
     "title": "Rummikub",
     "type": "school",
     "description_short": "The game rummikub",
     "headerImg": {
-      "src": "/img/rummikub/rummikub12.png",
+      "src": "/img/rummikub/rummi12.png",
       "alt": "Rummikub Project"
     },
     "date": "2021-02-01",
@@ -259,7 +288,10 @@
         "subtitle": "",
         "description": "Rummikub game made for desktop app.",
         "technology": [
-          "java"
+          {
+            "name": "Java.png",
+            "icon": "/technology/java"
+          }
         ],
         "images": [
           {

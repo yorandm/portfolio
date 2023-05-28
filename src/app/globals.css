@@ -22,3 +22,54 @@ h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
 }
+
+
+.page {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.headerImg {
+    width: 15vw;
+    height: auto;
+    clip-path: circle();
+}
+
+.nav {
+    border-bottom: 1px solid #ccc;
+}
+
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0;
+}
+
+.nav li {
+    list-style: none;
+    margin-right: 10rem;
+    margin-bottom: 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #ccc;
+}
+
+.nav li[data-selected=true] {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-bottom: none;
+    padding: 2px;
+    border-radius: 5px 5px 0 0;
+    background-color: black;
+    margin-bottom: -1px;
+}

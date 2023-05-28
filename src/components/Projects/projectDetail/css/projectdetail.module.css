@@ -1,0 +1,4 @@
+.technologies{
+    display:flex;
+    flex-direction: row;
+}
