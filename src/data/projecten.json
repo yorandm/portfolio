@@ -3,7 +3,7 @@
     "id": 3,
     "title": "Delaware",
     "type": "school",
-    "description_short": "Delaware",
+    "description_short": "Delaware Track and Trace application",
     "headerImg": {
       "src": "/img/delaware/dela1.png",
       "alt": "Delaware Project"
@@ -49,43 +49,39 @@
         ],
         "images": [
           {
-            "src": "img/delaware/dela1.png",
+            "src": "/img/delaware/dela1.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela2.png",
+            "src": "/img/delaware/dela2.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela3.png",
+            "src": "/img/delaware/dela3.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela4.png",
+            "src": "/img/delaware/dela4.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela5.png",
+            "src": "/img/delaware/dela5.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela6.png",
+            "src": "/img/delaware/dela6.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela7.png",
+            "src": "/img/delaware/dela7.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela8.png",
+            "src": "/img/delaware/dela8.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/delaware/dela9.png",
-            "alt": "Rummikub game application"
-          },
-          {
-            "src": "img/delaware/dela10.png",
+            "src": "/img/delaware/dela10.png",
             "alt": "Rummikub game application"
           }
         ]
@@ -109,7 +105,7 @@
         ],
         "images": [
           {
-            "src": "img/delaware/delddddda1.png",
+            "src": "/img/delaware/delddddda1.png",
             "alt": "Foto's fixen"
           }
         ]
@@ -164,51 +160,51 @@
         ],
         "images": [
           {
-            "src": "img/fluvius/webapp/fluvius1.png",
+            "src": "/img/fluvius/webapp/fluvius1.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius2.png",
+            "src": "/img/fluvius/webapp/fluvius2.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius3.png",
+            "src": "/img/fluvius/webapp/fluvius3.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius4.png",
+            "src": "/img/fluvius/webapp/fluvius4.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius5.png",
+            "src": "/img/fluvius/webapp/fluvius5.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius6.png",
+            "src": "/img/fluvius/webapp/fluvius6.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius7.png",
+            "src": "/img/fluvius/webapp/fluvius7.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius8.png",
+            "src": "/img/fluvius/webapp/fluvius8.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius9.png",
+            "src": "/img/fluvius/webapp/fluvius9.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius10.png",
+            "src": "/img/fluvius/webapp/fluvius10.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius11.png",
+            "src": "/img/fluvius/webapp/fluvius11.png",
             "alt": "Fluvius webapp"
           },
           {
-            "src": "img/fluvius/webapp/fluvius12.png",
+            "src": "/img/fluvius/webapp/fluvius12.png",
             "alt": "Fluvius webapp"
           }
         ]
@@ -224,27 +220,27 @@
         ],
         "images": [
           {
-            "src": "img/fluvius/desktopapp/fluviusApp1.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp1.png",
             "alt": "Fluvius desktopapp"
           },
           {
-            "src": "img/fluvius/desktopapp/fluviusApp2.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp2.png",
             "alt": "Fluvius desktopapp"
           },
           {
-            "src": "img/fluvius/desktopapp/fluviusApp3.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp3.png",
             "alt": "Fluvius desktopapp"
           },
           {
-            "src": "img/fluvius/desktopapp/fluviusApp4.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp4.png",
             "alt": "Fluvius desktopapp"
           },
           {
-            "src": "img/fluvius/desktopapp/fluviusApp5.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp5.png",
             "alt": "Fluvius desktopapp"
           },
           {
-            "src": "img/fluvius/desktopapp/fluviusApp6.png",
+            "src": "/img/fluvius/desktopapp/fluviusApp6.png",
             "alt": "Fluvius desktopapp"
           }
         ]
@@ -295,51 +291,51 @@
         ],
         "images": [
           {
-            "src": "img/rummikub/rummi1.png",
+            "src": "/img/rummikub/rummi1.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi2.png",
+            "src": "/img/rummikub/rummi2.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi3.png",
+            "src": "/img/rummikub/rummi3.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi4.png",
+            "src": "/img/rummikub/rummi4.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi5.png",
+            "src": "/img/rummikub/rummi5.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi6.png",
+            "src": "/img/rummikub/rummi6.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi7.png",
+            "src": "/img/rummikub/rummi7.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi8.png",
+            "src": "/img/rummikub/rummi8.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi9.png",
+            "src": "/img/rummikub/rummi9.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi10.png",
+            "src": "/img/rummikub/rummi10.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi11.png",
+            "src": "/img/rummikub/rummi11.png",
             "alt": "Rummikub game application"
           },
           {
-            "src": "img/rummikub/rummi12.png",
+            "src": "/img/rummikub/rummi12.png",
             "alt": "Rummikub game application"
           }
         ]

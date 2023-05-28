@@ -9,7 +9,7 @@ export default function ProjectCard({ project}: { project: Project }) {
       <img className={style.img} src={project.headerImg.src} alt={project.headerImg.alt} />
       <div className={style.cardText}>
         <h3>{project.title}</h3>
-        <p>{project.title}</p>
+        <p>{project.description_short}</p>
       </div>
     </div>
   </Link>

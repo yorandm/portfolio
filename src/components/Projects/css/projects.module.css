@@ -4,8 +4,10 @@
     flex-wrap: wrap;
     flex-shrink: 0;
     flex-grow: 0;
+    grid-auto-rows: 1fr;
 }
 .projects > *{
     margin: 10px;
+    height:100%;
     
 }
