@@ -1,0 +1,75 @@
+{
+    "reverse_chronological": "true",
+    "timeline": [
+        {
+            "order": 1,
+            "date": "2001-03-06",
+            "tekst": "I was born in Aalst, Belgium. Raised in Affligem."
+        },
+        {
+            "order": 2,
+            "date": "2003-11-03",
+            "tekst": "I went to kindergarten and primary school in De Klimming, Affligem"
+        },
+        {
+            "order": 3,
+            "date": "2008-11-03",
+            "tekst": "I started playing basketbal at BC Asse-Ternat"
+        },
+        {
+            "order": 4,
+            "date": "2013-06-28",
+            "tekst": "I graduated from primary school"
+        },
+        {
+            "order": 5,
+            "date": "2013-09-02",
+            "tekst": "I started my secondary education at the Vrij Technisch Instituut Aalst, where I pursued studies in Industrial Sciences."
+        },
+        {
+            "order": 6,
+            "date": "2014-12-24",
+            "tekst": "I took the initiative to create the Facebook page for WSC Dr. Tistaertvrienden VZW and gradually became increasingly involved in the organization of cycling races and more."
+        },
+        {
+            "order": 7,
+            "date": "2019-01-18",
+            "tekst": "I began managing the content of the website of WSC Dr. Tistaertvrienden VZW."
+        },
+        {
+            "order": 8,
+            "date": "2019-04-28",
+            "tekst": "The Dr. Tistaertvrienden organization is organizing the 100th edition of the Grand Prix Affligem for elite riders without a contract and promising young talents (beloften)."
+        },
+        {
+            "order": 9,
+            "date": "2019-06-28",
+            "tekst": "I graduated from secondary school"
+        },
+        {
+            "order": 10,
+            "date": "2019-09-23",
+            "tekst": "I started my studies in Industrial Engineering at Ghent University."
+        },
+        {
+            "order": 11,
+            "date": "2019-09-21",
+            "tekst": "I discontinued my studies in Industrial Engineering and transitioned to Applied Computer Science."
+        },
+        {
+            "order": 12,
+            "date": "2020-10-11",
+            "tekst": "Despite the challenges posed by the COVID-19 pandemic, the Dr. Tistaertvrienden organization successfully organized the Belgian Championship for junior cyclists (U17, nieuwelingen)."
+        },
+        {
+            "order": 13,
+            "date": "2021-10-11",
+            "tekst": "For the first time, I am taking on the role of overall responsibility for the Affligem Classic. The 32nd edition marks the first time that I am independently organizing the event, with the invaluable support of the Dr. Tistaertvrienden organization."
+        },
+        {
+            "order": 14,
+            "date": "2022-06-30",
+            "tekst": "Together with two other members, I am organizing a women's race for the first time specifically catering to elite female cyclists."
+        }
+    ]
+}
