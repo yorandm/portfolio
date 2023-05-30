@@ -73,3 +73,8 @@ h2 {
     background-color: black;
     margin-bottom: -1px;
 }
+
+* {
+    box-sizing: border-box;
+  }
+   
