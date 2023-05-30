@@ -1,9 +1,9 @@
 import Link from "next/link"
 import style from "./css/projectCard.module.css"
-
+ 
 export default function ProjectCard({ project}: { project: Project }) {
   return (<>
-  <Link href={`/projecten/${project.id}`}>
+  <Link href={`/projecten/${project.id}`} className={style.link}>
     <div className={style.card}>
      { /* eslint-disable-next-line @next/next/no-img-element*/}
       <img className={style.img} src={project.headerImg.src} alt={project.headerImg.alt} />

@@ -1,6 +1,6 @@
 .projects{
     display:flex;
-    justify-content: start;
+    justify-content: space-between;
     flex-wrap: wrap;
     flex-shrink: 0;
     flex-grow: 0;
@@ -11,3 +11,10 @@
     
     
 }
+@media screen and (max-width: 768px) {
+    
+    #projects h2{
+        font-size: 1.5rem;
+    }
+}
+
