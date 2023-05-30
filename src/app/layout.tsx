@@ -1,4 +1,6 @@
 import './globals.css'
+import 'swiper/css';
+import 'swiper/css/bundle';
 
 import { Inter } from 'next/font/google'
 // import style from './css/layout.module.css'
