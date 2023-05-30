@@ -1,0 +1,12 @@
+.groupmembers{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    padding: 0 10px;
+}

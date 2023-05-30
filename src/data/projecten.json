@@ -12,22 +12,22 @@
     "group": [
       {
         "name": "Damon De Letter",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/damondeletter",
+        "portfolio": "https://damondeletter.be/"
       },
       {
         "name": "Warre Neufkens",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/warreneufkens",
+        "portfolio": "http://warreneufkens.be/"
       },
       {
         "name": "Sebastien Vanlede",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/SebastienVanlede",
+        "portfolio": "https://www.sebastienvanlede.be/"
       },
       {
         "name": "Tuur De Schepper",
-        "github": "",
+        "github": "https://github.com/TuurDS",
         "portfolio": ""
       }
     ],

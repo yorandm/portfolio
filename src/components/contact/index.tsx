@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import style from "./css/contact.module.css"
 export default function Contact() {
   return (

@@ -1,0 +1,21 @@
+.img{
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.groupmember{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+}
