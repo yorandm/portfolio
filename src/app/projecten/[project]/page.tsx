@@ -7,12 +7,13 @@ export default function Page({ params }: { params: { project: number } }) {
     return (
         <div>
             <h2> {project?.title}</h2>
+            <p>Type: {project?.type}</p>
             <p>{project?.description_short}</p>
-            <h4>This project was made together with: </h4>
-            <div className={style.groupmembers}>{project?.group.map((member, index) => <GroupMember key={index} groupmember={member} />)}</div>
             {
                 project?.details.map((detail, index) => <ProjectDetail key={index} {...detail} />)
             }
+             <h4>This project was made together with: </h4>
+            <div className={style.groupmembers}>{project?.group.map((member, index) => <GroupMember key={index} groupmember={member} />)}</div>
         </div>
     )
 }

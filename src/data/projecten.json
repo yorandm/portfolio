@@ -2,7 +2,7 @@
   {
     "id": 3,
     "title": "Delaware",
-    "type": "school",
+    "type": "school, group",
     "description_short": "Delaware Track and Trace application",
     "headerImg": {
       "src": "/img/delaware/dela1.png",
@@ -50,39 +50,39 @@
         "images": [
           {
             "src": "/img/delaware/dela1.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela2.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela3.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela4.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela5.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela6.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela7.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela8.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           },
           {
             "src": "/img/delaware/dela10.png",
-            "alt": "Rummikub game application"
+            "alt": "Delaware web application"
           }
         ]
       },
@@ -105,8 +105,28 @@
         ],
         "images": [
           {
-            "src": "/img/delaware/delddddda1.png",
-            "alt": "Foto's fixen"
+            "src": "/img/delaware/DelawareApp1.JPG",
+            "alt": "Delaware mobile application"
+          },
+          {
+            "src": "/img/delaware/DelawareApp2.JPG",
+            "alt": "Delaware mobile application"
+          },
+          {
+            "src": "/img/delaware/DelawareApp3.JPG",
+            "alt": "Delaware mobile application"
+          },
+          {
+            "src": "/img/delaware/DelawareApp4.JPG",
+            "alt": "Delaware mobile application"
+          },
+          {
+            "src": "/img/delaware/DelawareApp5.JPG",
+            "alt": "Delaware mobile application"
+          },
+          {
+            "src": "/img/delaware/DelawareApp6.JPG",
+            "alt": "Delaware mobile application"
           }
         ]
       }
@@ -115,7 +135,7 @@
   {
     "id": 2,
     "title": "Fluvius",
-    "type": "school",
+    "type": "school, group",
     "description_short": "Dashboard and desktop application for Fluvius",
     "headerImg": {
       "src": "/img/fluvius.png",
@@ -125,18 +145,18 @@
     "group": [
       {
         "name": "Damon De Letter",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/damondeletter",
+        "portfolio": "https://damondeletter.be/"
       },
       {
         "name": "Warre Neufkens",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/warreneufkens",
+        "portfolio": "http://warreneufkens.be/"
       },
       {
         "name": "Sebastien Vanlede",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/SebastienVanlede",
+        "portfolio": "https://www.sebastienvanlede.be/"
       },
       {
         "name": "Lander Schepens",
@@ -215,7 +235,7 @@
         "technology": [
           {
             "name": "Java.png",
-            "icon": "/technology/java"
+            "icon": "/technology/java.png"
           }
         ],
         "images": [
@@ -250,7 +270,7 @@
   {
     "id": 1,
     "title": "Rummikub",
-    "type": "school",
+    "type": "school, group",
     "description_short": "The game rummikub",
     "headerImg": {
       "src": "/img/rummikub/rummi12.png",
@@ -260,22 +280,22 @@
     "group": [
       {
         "name": "Damon De Letter",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/damondeletter",
+        "portfolio": "https://damondeletter.be/"
       },
       {
         "name": "Maxim Van Langendonck",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/maxim-vanlangendonck",
+        "portfolio": "https://www.maximvanlangendonck.be"
       },
       {
         "name": "Sebastien Vanlede",
-        "github": "",
-        "portfolio": ""
+        "github": "https://github.com/SebastienVanlede",
+        "portfolio": "https://www.sebastienvanlede.be/"
       },
       {
         "name": "Dries Vanbillemont",
-        "github": "",
+        "github": "https://github.com/DriesVanbillemont",
         "portfolio": ""
       }
     ],
@@ -286,7 +306,7 @@
         "technology": [
           {
             "name": "Java.png",
-            "icon": "/technology/java"
+            "icon": "/technology/java.png"
           }
         ],
         "images": [
