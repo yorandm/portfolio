@@ -34,7 +34,7 @@
     "details": [
       {
         "subtitle": "Web application",
-        "description": "This project was made for Delaware. It contains a order and track & trace app where the customer can review orders, see their order history and track their orders. The app also contains a admin panel where the admin can manage the orders.  Another functionality of the app was that the user could buy their products. The purpose of this build was to rearrange the customers package in order to be the most ecologic. This means that the space occupied of the box is minimalized. One of the other key features was the abillity to track in real time. ",
+        "description": "This project was made for Delaware. It contains a order and track & trace app where the customer can review orders, see their order history and track their orders. The app also contains an admin panel where the admin can manage the orders.  Another functionality of the app was that the user could buy their products. The purpose of this build was to rearrange the customers package in order to be the most ecologic. This means that the space occupied of the box is minimalized. One of the other key features was the ability to track in real time. ",
         "technology": [
           {
             "name": "c#",

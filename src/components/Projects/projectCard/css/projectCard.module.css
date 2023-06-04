@@ -7,12 +7,12 @@
 
 .card {
     display: inline-block;
-    border: 1px solid white;
+    border: 1px solid var(--nav-color);
     border-radius: 8%;
     transition: 1s;
     width: 20vw;
     height:100%;
-    color:white
+    color:rgb(var(--foreground-rgb));
 }
 
 .cardText {

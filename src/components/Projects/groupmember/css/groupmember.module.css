@@ -16,6 +16,6 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    color:white; 
+    color:rgb(var(--foreground-rgb));; 
 
 }
