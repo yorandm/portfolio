@@ -70,6 +70,21 @@
             "order": 14,
             "date": "2023-06-30",
             "tekst": "Together with two other members, I am organizing a women's race for the first time specifically catering to elite female cyclists."
+        },
+        {
+            "order": 15,
+            "date": "2016-07-25",
+            "tekst": "First FabLab camp as an animator"
+        },
+        {
+            "order": 16,
+            "date": "2022-04-09",
+            "tekst":"Became responsible for the FabLab Youth work"
+        },
+        {
+            "order":17,
+            "date": "2016-10-01",
+            "tekst": "Started student job at fablab factory"
         }
     ]
 }
